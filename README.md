@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ManuelMontecalvo
 - 👀 I’m interested in Computer Science and Engineering
-- 🌱 I’m currently learning Solidity
+- 🌱 I’m currently learning Web and Mobile Developing
 
 <!---
 ManuelMontecalvo/ManuelMontecalvo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
